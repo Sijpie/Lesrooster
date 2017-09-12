@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+Modules.vc.db
+Modules.vc.vc.opendb
+Leerlingen.vc.db
+Leerlingen.vc.vc.opendb
+Docenten.vc.db
+Docenten.vc.vc.opendb
+Lokalen.vc.db
+Lokalen.vc.vc.opendb
